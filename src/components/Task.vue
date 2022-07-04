@@ -72,7 +72,7 @@ export default {
     }
     @media(max-width: 700px){
         .task{
-            height: 75px;
+            height: 55px;
             font-size: 1rem;
         }
     }
